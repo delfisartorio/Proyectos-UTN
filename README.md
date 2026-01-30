@@ -2,7 +2,7 @@
 
 📅 **Última actualización:** Enero 2026
 
-Bienvenido/a 👋  
+Bienvenidos👋  
 Este repositorio reúne proyectos desarrollados durante mi formación en **Ingeniería en Sistemas de Información (UTN FRBA)**.  
 Los mismos abarcan desarrollo web, sistemas distribuidos, simulaciones, análisis de sistemas y gestión de datos.
 
